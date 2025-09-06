@@ -11,7 +11,7 @@
 }
 
 body {
-  background-color: #393E46;
+  background-color: black;
 }
 
 h1 {
@@ -32,8 +32,16 @@ img {
   width: 80%;
 }
 
+button{
+  align-self: center;
+  margin-top: 5px;
+  padding: 10px;
+  border: none;
+  border-radius: 5%;
+}
+
 footer {
-  margin-top: 5%;
+  margin-top: 1%;
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
